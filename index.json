@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "howtos": [
+    {
+      "key": "juso-confm-key",
+      "file": "행안부-승인키발급.pdf",
+      "title": "행안부 승인키 받는 법",
+      "summary": "우편번호 찾기가 안 될 때 — 승인키를 받아 회사정보에 넣는 차례",
+      "keywords": "우편번호 주소 도로명 승인키 juso 행안부 주소찾기 팝업",
+      "order": 10,
+      "hash": "d274fee9c77b9018d662305cc96bb90e",
+      "bytes": 973950
+    }
+  ]
+}
